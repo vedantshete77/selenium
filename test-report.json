@@ -1,0 +1,94 @@
+[
+  {
+    "testCase": "Check website title",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Check first quote visibility",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Check author visibility",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #1",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #2",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #3",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #4",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #5",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #6",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #7",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #8",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #9",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #10",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #11",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #12",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #13",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #14",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #15",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #16",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #17",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #18",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #19",
+    "status": "Pass"
+  },
+  {
+    "testCase": "Test case #20",
+    "status": "Pass"
+  }
+]
